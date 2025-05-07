@@ -22,7 +22,7 @@ export default function About(){
                 <h3 className='text-3xl font-semibold mb-2'>Projects</h3>
                 <div className='flex w-[max-content] flex-col flex-wrap'>
                     <a className='duration-100 hover:translate-x-2 border-b-2 pb-1 mb-2 border-dotted font-semibold' target="_blank" href="https://github.com/Rohan-Basu-Code/writer">Writer</a>
-                    <a  className='duration-100 hover:translate-x-2 border-b-2 pb-1 mb-2 border-dotted font-semibold' target="_blank"  href="https://github.com/Rohan-Basu-Code/dashboard">Dashboard</a>
+                    <a  className='duration-100 hover:translate-x-2 border-b-2 pb-1 mb-2 border-dotted font-semibold' target="_blank"  href="https://github.com/Rohan-Basu-Code/dashboard_git">Dashboard</a>
                 </div>
             </div>
             <div className='mt-8'>
