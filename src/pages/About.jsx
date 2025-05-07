@@ -36,7 +36,7 @@ export default function About(){
                 <div className='flex flex-col flex-wrap'>
                     <div className='flex gap-2'><span className='font-semibold'>Programming Languages: </span>JavaScript, HTML, CSS</div>
                     <div className='flex gap-2'>
-                        <span className='font-semibold'>Frameworks & Libraries:</span>
+                        <span className='font-semibold'>Frameworks & Libraries: </span>
                         React</div>
                     <div className='flex gap-2'>
                         <span className='font-semibold'>Languages:</span>
